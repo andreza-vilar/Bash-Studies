@@ -8,7 +8,7 @@
 
 - **Variável PATH:** O diretório onde o arquivo será armazenado deve estar no PATH do sistema para que o script seja executado de qualquer lugar.
 
-- **Como Criar o Arquivo:** Use um editor de texto para criar o arquivo, como o `nano`, `vim` ou `gedit`. Por exemplo, para criar usando o `nano`, digite `nano meu_script.sh` no terminal e insira o código do script.
+- **Como Criar o Arquivo:** Use um editor de texto para criar o arquivo, como o `nano`, `vim` ou `gedit`. Por exemplo, para criar usando o `vim`, digite `vim meu_script.sh` no terminal e insira o código do script.
 
 ## 2. Editar o Arquivo
 
