@@ -1,4 +1,4 @@
-i# Importante: Não utilize scripts de terceiros sem entender completamente o que fazem!
+# Importante: Não utilize scripts de terceiros sem entender completamente o que fazem!
 
 É comum buscar e executar scripts encontrados na internet. No entanto, isso pode ser arriscado e prejudicial para o seu sistema. Aqui estão algumas razões pelas quais você deve evitar essa prática:
 
