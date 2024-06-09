@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-help ls &> /dev/null
+help $1 &> /dev/null
 
-[[ $? -eq 0 ]] && echo "ls é interno!" || echo "ls não é interno!"
+[[ $? -eq 0 ]] && echo "$1 é interno!" || echo "$1 não é interno!"
 
 exit 0
