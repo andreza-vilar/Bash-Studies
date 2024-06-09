@@ -12,3 +12,7 @@
  
  - Um sistema operacional baseado em Unix (Linux, macOS, etc.).
  - Bash instalado (a maioria dos sistemas Unix já vem com Bash instalado por padrão
+
+**Author** 
+
+[Andreza Vilar](https://www.linkedin.com/in/andrezavilar/)

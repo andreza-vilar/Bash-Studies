@@ -1,4 +1,4 @@
-i# Importante: Não utilize scripts de terceiros sem entender completamente o que fazem!
+# Importante: Não utilize scripts de terceiros sem entender completamente o que fazem!
 
 É comum buscar e executar scripts encontrados na internet. No entanto, isso pode ser arriscado e prejudicial para o seu sistema. Aqui estão algumas razões pelas quais você deve evitar essa prática:
 
@@ -15,4 +15,10 @@ i# Importante: Não utilize scripts de terceiros sem entender completamente o qu
    - Mesmo que um script não seja malicioso ou incorreto, ele pode ser incompatível com as configurações ou tecnologias do seu sistema, causando problemas de funcionamento.
 
 É importante sempre entender o que um script faz antes de executá-lo, revisar o código fonte e, se possível, testá-lo em um ambiente controlado antes de aplicá-lo em produção. Investir tempo para aprender e criar seus próprios scripts pode ser mais seguro e eficaz a longo prazo.
+
+**Outro cuidado importante**
+  - Importante prestar atencao no prompt.
+  - O símbolo no final do prompt indica se está trabalhando como usuário normal($) ou como usuário administrativo (#).
+  - Basta um comando errado como usuário administrativo para danificar de forma irrecuperável o seu sistema
+
 
