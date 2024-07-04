@@ -1,0 +1,1 @@
+- Script que automatiza atualizacao do sistema e realiza limpeza de pacotes
